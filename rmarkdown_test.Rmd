@@ -1,5 +1,7 @@
 ---
-title: "Untitled"
+title: "Test"
+author: "Eric Pingel"
+date: "2016-12-02"
 output: github_document
 ---
 
